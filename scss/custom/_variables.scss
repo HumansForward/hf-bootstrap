@@ -1,0 +1,40 @@
+// Variables
+//
+// Custom settings to override the Bootstrap defaults
+
+
+// Table of Contents
+//
+// Colors
+// Options
+// Spacing
+// Body
+// Links
+// Grid breakpoints
+// Grid containers
+// Grid columns
+// Fonts
+// Components
+
+// General variable structure
+//
+// Variable format should follow the `$component-modifier-state-property` order.
+
+
+// Options
+//
+// Quickly modify global styling by enabling or disabling optional features.
+
+$enable-flex:               true !default;
+$enable-rounded:            false !default;
+
+
+// Typography
+//
+// Font, line-height, and color for body text, headings, and more.
+
+$font-family-sans-serif:     "Maven Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+// $font-family-serif:          Georgia, "Times New Roman", Times, serif !default;
+// $font-family-monospace:      Menlo, Monaco, Consolas, "Courier New", monospace !default;
+
+$headings-font-weight:       400 !default;
